@@ -12,4 +12,10 @@ class Clipboard {
   }) {
     FlutterClipboard.copy(content);
   }
+  
+  void paste({
+    @required final String content,
+  }) {
+    FlutterClipboard.paste();
+  }
 }
