@@ -1,3 +1,4 @@
+library rirev_flutter_toolkit;
 import 'package:clipboard/clipboard.dart';
 import 'package:meta/meta.dart';
 
