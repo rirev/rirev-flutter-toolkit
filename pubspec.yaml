@@ -15,6 +15,21 @@ dependencies:
   # Copy to clipboard
   clipboard: ^0.1.2+8
 
+  # Upload files
+  dio: ^3.0.10
+
+  # Launch urls
+  url_launcher: ^5.5.0
+
+  # Open pdfs
+  open_file: ^3.0.1
+
+  # Manage location, storage, and contacts permissions
+  permission_handler: ^5.0.1+1
+
+  # internationalization and localization facilities
+  intl: ^0.16.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
